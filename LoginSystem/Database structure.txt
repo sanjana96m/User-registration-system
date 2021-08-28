@@ -1,0 +1,9 @@
+<--Localhost Database & Tables-->
+
+Create a Database - admin-db
+
+Create user table - users (5 column as[id,name,phone,email,password])
+
+Create admin table - admind (3 column as[id,username,pwd]
+
+<---Then only you can check the system function--->
